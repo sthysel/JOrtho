@@ -8,11 +8,6 @@
     
     <packaging>jar</packaging>
     <name>JOrtho 4.0 </name>
-    <parent>
-        <artifactId>freeplane</artifactId>
-        <groupId>src.org</groupId>
-        <version>2.0.0-SNAPSHOT</version>
-    </parent>
     <dependencies>
         <dependency>
             <groupId>junit</groupId>
